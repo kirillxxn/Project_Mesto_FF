@@ -6,3 +6,4 @@ _____
 Первый этап работы - написан код для создания и удаления карточек с помощью JavaScript. 
 _____
 [![](https://imageup.ru/img71/4750647/snimok-ekrana-2024-02-29-005236.jpg)](https://imageup.ru/img71/4750647/snimok-ekrana-2024-02-29-005236.jpg.html)
+_____
